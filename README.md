@@ -53,5 +53,5 @@ Why Should You Care?
 Because this dashboard is like a crystal ball, showing you where the industry is heading, what skills are HOT 🔥, and what challenges are out there. Whether you’re just starting or leveling up, these insights can be your secret weapon! 🧙‍♂️🔮
 
 Screenshots/Demos
-Show what the Dashboard looks like
-Example:
+Show what the Dashboard looks like. - ![Alt Text](https://github.com/username/repo/assets/image.png).
+Example: ![Dashboard Preview](https://github.com/TanvayTheAnalyst/Professional_Data_Survey_Dashboard/blob/main/Data%20Professional%20Survey%20Breakdown.png).
